@@ -55,8 +55,7 @@ This dashboard highlights **tournament trends, top players, and team performance
 ---
 
 ## 🌐 Connect With Me
-🔗 [LinkedIn](https://www.linkedin.com) | 🐙 [GitHub](https://github.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/viasandeep/) | 🐙 [GitHub](https://github.com/viasandeep)  
 
 ---
 
-⭐ **If you find this project useful, don’t forget to give it a star!**  
